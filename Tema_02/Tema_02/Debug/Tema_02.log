@@ -1,0 +1,6 @@
+﻿  tema_02.cpp
+C:\Users\Mihai\Desktop\Computer_Graphics_2024\Tema_02\Tema_02\tema_02.cpp(269,43): warning C4101: 'yultim': unreferenced local variable
+C:\Users\Mihai\Desktop\Computer_Graphics_2024\Tema_02\Tema_02\tema_02.cpp(269,28): warning C4101: 'yprim': unreferenced local variable
+C:\Users\Mihai\Desktop\Computer_Graphics_2024\Tema_02\Tema_02\tema_02.cpp(269,21): warning C4101: 'xprim': unreferenced local variable
+C:\Users\Mihai\Desktop\Computer_Graphics_2024\Tema_02\Tema_02\tema_02.cpp(269,35): warning C4101: 'xultim': unreferenced local variable
+  Tema_02.vcxproj -> C:\Users\Mihai\Desktop\Computer_Graphics_2024\Tema_02\Debug\Tema_02.exe
